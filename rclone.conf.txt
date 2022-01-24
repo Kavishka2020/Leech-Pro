@@ -1,0 +1,8 @@
+[leechdrive]
+type = drive
+client_id = 102336458261-l80n6b6fgos8f28d8khvhik80dreh13j.apps.googleusercontent.com
+client_secret = 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
+scope = drive
+root_folder_id =
+token = {"access_token":"ya29.A0ARrdaM_yMzavAnPl4DxbR7NeIlkNycPEyCRNXnJn5Ve4C9Cl1trdrKj1cGlCtENfNnpQpg9ANdy55ejDlZokZcSdRwQPH6Cx59GAUFCSigAyJOw6K7M7wTL2yaXuLEzlJfcQtN_iVFr3lJ45lStc6vlu2nv-","token_type":"Bearer","refresh_token":"1//0gky00WI0iP18CgYIARAAGBASNwF-L9IrXhxGchXJxha8YpS7yeewxNibv37keB_CNb4uR5fOfMr8QsjUfLJ6YnkDDfWz12HxdzM","expiry":"2022-01-24T15:14:26.8840461+05:30"}
+team_drive = 0AI9oKdFzAtDnUk9PVA
